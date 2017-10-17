@@ -1,0 +1,8 @@
+TO RENAME THE SQL 'SA' ACCOUNT RUN THE FOLLOWING SQL STATEMENT
+
+=========================================================
+  USE master;
+  GO
+  ALTER LOGIN [sa] WITH NAME = xsa;
+  GO
+=========================================================
