@@ -1,2 +1,2 @@
 # SQL
-Various SQL Statements and Scripts
+Various SQL Statements and SQL Scripts
